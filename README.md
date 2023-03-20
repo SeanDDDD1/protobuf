@@ -83,3 +83,20 @@ Developer Community
 
 To be alerted to upcoming changes in Protocol Buffers and connect with protobuf developers and users,
 [join the Google Group](https://groups.google.com/g/protobuf).
+
+Documentation
+-------------
+
+The complete documentation is available at the [Protocol Buffers doc site](https://protobuf.dev).
+
+Support Policy
+--------------
+
+Read about our [version support policy](https://protobuf.dev/version-support/)
+to stay current on support timeframes for the language libraries.
+
+Developer Community
+-------------------
+
+To be alerted to upcoming changes in Protocol Buffers and connect with protobuf developers and users,
+[join the Google Group](https://groups.google.com/g/protobuf).
